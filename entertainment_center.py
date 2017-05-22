@@ -44,6 +44,5 @@ wild_child = media.Movie(
 # print(wild_child.storyline)
 # self.show_trailer()
 # print(media.Movie.valid_ratings)
-movies = [toy_story, avater, school_of_rock, ratatouille, \]
-[midnight_in_paris, wild_child]
+movies = [toy_story, avater, school_of_rock, ratatouille, midnight_in_paris, wild_child]
 fresh_tomatoes.open_movies_page(movies)
